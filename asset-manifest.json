@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Samachar-App/static/css/main.31d6cfe0.css",
+    "main.js": "/Samachar-App/static/js/main.4c648bc6.js",
+    "static/js/787.4c026eef.chunk.js": "/Samachar-App/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/Samachar-App/static/media/loading.ec9c053b239a6b6e74fa.gif",
+    "static/media/loading_black.gif": "/Samachar-App/static/media/loading_black.35b5046e1cf0eca0f2bd.gif",
+    "index.html": "/Samachar-App/index.html",
+    "main.4c648bc6.js.map": "/Samachar-App/static/js/main.4c648bc6.js.map",
+    "787.4c026eef.chunk.js.map": "/Samachar-App/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4c648bc6.js"
+  ]
+}
